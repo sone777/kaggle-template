@@ -1,13 +1,12 @@
----
-id: titanic
-title: Titanic - Machine Learning from Disaster
+
+# Titanic - Machine Learning from Disaster
+
+## 결과요약
+
 score: 0.75837
 team: 20435
 rank: 17144
 date: 2021-02-18
----
-
-# Titanic - Machine Learning from Disaster
 
 ## 결과화면
 
@@ -15,7 +14,7 @@ date: 2021-02-18
 
 ## 사용한 방법 & 알고리즘
 
-인공지능 알고리즘을 사용했습니다.
+000 인공지능 알고리즘을 사용했습니다.
 
 ## 코드
 
