@@ -1,14 +1,16 @@
 
 # Titanic - Machine Learning from Disaster
 
-## 결과요약
+## 결과
+
+### 요약정보
 
 - score: 0.75837
 - team: 20435
 - rank: 17144
 - date: 2021-02-18
 
-## 결과화면
+### 결과화면
 
 ![leaderboard](./img/leaderboard.png)
 
